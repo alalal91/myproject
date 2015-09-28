@@ -1,1 +1,3 @@
-# myproject
+$myproject
+
+hello world!
